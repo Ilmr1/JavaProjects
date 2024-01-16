@@ -1,4 +1,4 @@
-package Module1;
+package Moduuli1;
 import java.util.Scanner;
 
 public class Task3 {

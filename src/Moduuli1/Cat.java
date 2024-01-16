@@ -1,4 +1,4 @@
-package Module1;
+package Moduuli1;
 public class Cat {
     private String name;
 
