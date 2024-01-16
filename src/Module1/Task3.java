@@ -17,7 +17,7 @@ public class Task3 {
         System.out.println("The sum of the numbers is " + (first + second + third));
         System.out.println("The product of the numbers is " +(first * second * third));
         System.out.println("The average of the numbers is " + String.format("%.3f", ((double) first + second + third) / 3));
-
+// int type tulostaa ainoastaan kokonaislukja. float ja double tulotaa myös desimaaleja.
 
 
     }
