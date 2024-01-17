@@ -18,7 +18,7 @@ public class Quadratic_equation_solver {
         if (discriminant > 0) {
             double rootOne = (-b + Math.sqrt(discriminant)) / (2 * a);
             double rootTwo = (-b - Math.sqrt(discriminant)) / (2 * a);
-            System.out.println("The roots are: " + rootOne + " and " + rootTwo);
+            System.out.println("Roots are: " + rootOne + " and " + rootTwo);
         }else if (discriminant == 0) {
             double root = -b / (2 * a);
             System.out.println("The root is:" + root);
