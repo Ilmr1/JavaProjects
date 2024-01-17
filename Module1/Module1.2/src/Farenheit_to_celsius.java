@@ -1,4 +1,3 @@
-package Moduuli1;
 import java.util.Scanner;
 public class Farenheit_to_celsius {
     public static void main(String args[]) {
