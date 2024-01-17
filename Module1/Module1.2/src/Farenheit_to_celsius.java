@@ -8,7 +8,7 @@ public class Farenheit_to_celsius {
 
         double celsius = (fahrenheit - 32) * 5 / 9;
 
-        System.out.printf("Temperature in celsius: %.1f", celsius);
+        System.out.printf("Temperature in celsius is: %.1f", celsius);
 
     }
 }
