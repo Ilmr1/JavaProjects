@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.lang.Math;
 
-public class Quadratic_equation_solver {
+public class Task1 {
     public static void main(String[] strings) {
         Scanner input = new Scanner(System.in);
 
