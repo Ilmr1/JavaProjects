@@ -2,8 +2,8 @@ public class Car {
     private float speed;
     private float gasolineLevel;
     private String typeName;
-    private float tankCapacity;  // New instance variable for tank capacity
-    private float topSpeed;      // New instance variable for top speed
+    private float tankCapacity;
+    private float topSpeed;
 
     // Existing constructor
     public Car(String typeName) {
@@ -12,18 +12,16 @@ public class Car {
         this.typeName = typeName;
     }
 
-    // New constructor with tank capacity and top speed
+
     public Car(String typeName, float tankCapacity, float topSpeed) {
         this.typeName = typeName;
         this.tankCapacity = tankCapacity;
         this.topSpeed = topSpeed;
 
-        // Initialize other fields to default values
         speed = 0;
         gasolineLevel = 0;
     }
 
-    // Implementation of methods
     public void accelerate() {
         if (gasolineLevel > 0 && speed < topSpeed)
             speed += 10;
@@ -48,7 +46,6 @@ public class Car {
         gasolineLevel = 100;
     }
 
-    // New getters and setters for tankCapacity and topSpeed
     public float getTankCapacity() {
         return tankCapacity;
     }
