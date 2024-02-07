@@ -9,7 +9,7 @@ class Car implements vehicle {
         System.out.println("Car has started");
     }
     public void stop() {
-            System.out.println("Car has stopped");
+        System.out.println("Car has stopped");
     }
     public void info() {
         System.out.println("Info:");
