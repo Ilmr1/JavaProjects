@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Module3/Module3.3/Module3.3.2/Library/Directory.iml" filepath="$PROJECT_DIR$/Module3/Module3.3/Module3.3.2/Library/Directory.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JavaProjects.iml" filepath="$PROJECT_DIR$/JavaProjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module1/Module1.iml" filepath="$PROJECT_DIR$/Module1/Module1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module1/Module1.1/Module1.1.iml" filepath="$PROJECT_DIR$/Module1/Module1.1/Module1.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module1/Module1.2/Module1.2.iml" filepath="$PROJECT_DIR$/Module1/Module1.2/Module1.2.iml" />
@@ -34,6 +33,7 @@
       <module fileurl="file://$PROJECT_DIR$/Module5/Module5.1/Module5.1.iml" filepath="$PROJECT_DIR$/Module5/Module5.1/Module5.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module5/Module5.1/Module5.1.1/Module5.1.1.iml" filepath="$PROJECT_DIR$/Module5/Module5.1/Module5.1.1/Module5.1.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module5/Module5.1/Module5.1.2/Module5.1.2.iml" filepath="$PROJECT_DIR$/Module5/Module5.1/Module5.1.2/Module5.1.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module6/Module6.iml" filepath="$PROJECT_DIR$/Module6/Module6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module2/Module2.3/Task1/Task1.iml" filepath="$PROJECT_DIR$/Module2/Module2.3/Task1/Task1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module2/Module2.3/Task2/Task2.iml" filepath="$PROJECT_DIR$/Module2/Module2.3/Task2/Task2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module2/Module2.3/Task3/Task3.iml" filepath="$PROJECT_DIR$/Module2/Module2.3/Task3/Task3.iml" />
