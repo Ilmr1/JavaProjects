@@ -1,6 +1,7 @@
 write a Calculator class that has the ability to sum positive integers. A negative integer should throw an exception.
 
-```public class Calculator {
+```
+public class Calculator {
 private int sum;
 
     public Calculator() {
