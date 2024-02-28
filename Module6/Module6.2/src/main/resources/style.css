@@ -1,0 +1,32 @@
+.button {
+    -fx-background-color: blue;
+    -fx-background-radius: 5;
+    -fx-border-color: blue;
+    -fx-border-radius: 5;
+    -fx-border-width: 1;
+    -fx-font-size: 12;
+    -fx-font-weight: bold;
+    -fx-text-fill: #000000;
+    -fx-padding: 5 10 5 10;
+    -fx-font-family: "Roboto Light";
+}
+.
+.button:hover {
+    -fx-background-color: grey;
+}
+
+.label{
+    -fx-font-size: 10;
+    -fx-font-weight: bold;
+    -fx-text-fill: #000000;
+    -fx-font-family: "Roboto Light";
+
+}
+
+
+.combo-box{
+    -fx-font-size: 10;
+    -fx-font-weight: bold;
+    -fx-text-fill: #000000;
+}
+
