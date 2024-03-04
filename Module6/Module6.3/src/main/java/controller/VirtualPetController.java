@@ -12,12 +12,18 @@ public class VirtualPetController {
         this.view = view;
     }
 
-    // Method to handle pet movement
+    public double getX() {
+        return pet.getX();
+    }
+
+    public double getY() {
+        return pet.getY();
+    }
+
     public void movePet(double x, double y) {
         pet.setX(x);
         pet.setY(y);
         view.updatePetPosition(x, y);
     }
 
-    // Add more methods to handle other user interactions
 }
