@@ -1,0 +1,6 @@
+<VBox fx:id="root" spacing="10" alignment="CENTER" xmlns:fx="http://javafx.com/fxml">
+    <TextField fx:id="titleField" promptText="Enter note title"/>
+    <TextArea fx:id="contentField" promptText="Enter note content" prefHeight="200"/>
+    <Button fx:id="addButton" text="Add" onAction="#addNote"/>
+    <ListView fx:id="noteList" prefHeight="200"/>
+</VBox>
