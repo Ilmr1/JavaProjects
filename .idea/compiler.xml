@@ -15,6 +15,7 @@
     <bytecodeTargetLevel>
       <module name="JavaProjects" target="1.5" />
       <module name="Module5.3" target="21" />
+      <module name="Module5.4" target="21" />
     </bytecodeTargetLevel>
   </component>
 </project>
