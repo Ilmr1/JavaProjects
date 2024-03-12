@@ -11,12 +11,15 @@
         <option value="$PROJECT_DIR$/Module5/Module5.3/pom.xml" />
         <option value="$PROJECT_DIR$/Module6/Module6.4/pom.xml" />
         <option value="$PROJECT_DIR$/Module5/Module5.4/pom.xml" />
+        <option value="$PROJECT_DIR$/Module7/Module7.1/pom.xml" />
+        <option value="$PROJECT_DIR$/Module7/Module7.2/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/Module5/Module5.3/pom.xml" />
         <option value="$PROJECT_DIR$/Module5/Module5.4/pom.xml" />
+        <option value="$PROJECT_DIR$/Module7/Module7.1/pom.xml" />
       </set>
     </option>
   </component>
