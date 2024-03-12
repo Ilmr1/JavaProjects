@@ -2,6 +2,9 @@ package dao;
 
 import entity.*;
 import jakarta.persistence.EntityManager;
+import jakarta.persistence.TypedQuery;
+
+import java.util.List;
 
 public class CurrencyDao {
 
@@ -30,5 +33,11 @@ public class CurrencyDao {
         em.getTransaction().begin();
         em.remove(currency);
         em.getTransaction().commit();
+    }
+
+    public List<Currency> getAllCurrencies() {
+        EntityManager em = datasource.MariaDbJpaConnection.getInstance();
+        TypedQuery<Currency> query = em.createQuery("SELECT c FROM Currency c", Currency.class);
+        return query.getResultList();
     }
 }
